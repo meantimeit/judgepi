@@ -1,0 +1,4 @@
+{
+  "pgConnectionUri": "postgres://jukepi:Riverside1@127.0.0.1:5432/postgres",
+  "mopidyWebSocketUrl": "ws://office.meantime.co.uk:6680/mopidy/ws/"
+}
